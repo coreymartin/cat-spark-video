@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+out/
+
+# Remotion cache
+.remotion/
+
+# Environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Original HEIC photos (converted versions in public/)
+cat-photos/
+
+# Screenshot used for debugging
+Screenshot*.png
